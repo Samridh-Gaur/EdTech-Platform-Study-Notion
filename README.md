@@ -1,2 +1,1 @@
-# EdTech Platform Study Notion
- 
+# StudyNotion Edtech Project
