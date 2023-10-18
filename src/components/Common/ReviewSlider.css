@@ -1,0 +1,100 @@
+/* ReviewSlider.css */
+
+/* Container for the entire review slider */
+.review-slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Swiper container */
+  .swiper-container {
+    width: 100%;
+    max-width: 1200px; /* Adjust to your desired maximum width */
+  }
+  
+  /* Individual review card */
+  .swiper-slide {
+    width: 300px; /* Adjust the width to your liking */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #212121; /* Set your desired background color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    text-align: center;
+    transition: transform 0.2s;
+    cursor: pointer;
+    overflow: hidden;
+  }
+  
+  .swiper-slide:hover {
+    transform: scale(1.05);
+  }
+  
+  /* User information section */
+  .user-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .user-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .user-details {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+  .user-name {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .user-course {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #888;
+  }
+  
+  /* Review text section */
+  .review-text {
+    margin: 1rem 0;
+    font-size: 1rem;
+  }
+  
+  /* Rating section */
+  .rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+  
+  .rating-value {
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+  
+  /* Star rating */
+  .star-rating {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  /* Customize the star icons here if needed */
+  .star-rating .fa-star {
+    color: #ffd700; /* Set your desired star color */
+    font-size: 1.2rem; /* Set your desired star size */
+  }
+  
