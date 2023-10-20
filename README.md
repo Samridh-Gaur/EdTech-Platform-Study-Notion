@@ -69,7 +69,7 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-
+![architecture](https://github.com/Samridh-Gaur/EdTech-Platform-Study-Notion/assets/124417680/a889f6ed-e081-430b-8637-7dc36fc63f7e)
 
 ## Front End
 
@@ -168,7 +168,7 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-
+![Data Models and Database Schema:](https://github.com/Samridh-Gaur/EdTech-Platform-Study-Notion/assets/124417680/5bc73cd2-ca79-4edb-8a9a-549dccff88ea)
 
 ## API Design
 
