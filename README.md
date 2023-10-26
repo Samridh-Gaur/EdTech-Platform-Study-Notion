@@ -2,6 +2,12 @@
 
 The Project is Hosted at : https://edtech-platform-study-notion-samridh-gaur.vercel.app/
 
+#Credentials to Access Student Account directly without signup:-
+->Email Address :- samarthgaur3112@gmail.com
+->Password :- 123456
+
+I can't provide Credentials for Instructor Account as all users will be affected by this. You can create Instructor account by selecting Instructor at the sign up page.
+
 ## Project Description
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
